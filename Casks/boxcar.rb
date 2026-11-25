@@ -1,6 +1,6 @@
 cask "boxcar" do
-  version "1.3"
-  sha256 "1b51824a4efdb7f9179ec6c1dc9cedd1d211a47b05f50bfe6df1e9d2231deabe"
+  version "1.4"
+  sha256 "fb588fbbfe485e308648cb00357affdee14bc89bcfec1cf77b04ce4290866936"
 
   url "https://github.com/natesilva/boxcar/releases/download/v#{version}/Boxcar-#{version}.zip"
   name "Boxcar"
