@@ -1,10 +1,11 @@
-# homebrew-boxcar
+# homebrew-tap
 
-Homebrew tap for [Boxcar](https://github.com/natesilva/boxcar).
+Homebrew tap for apps by Nate Silva.
+
+| Cask | Description |
+| --- | --- |
+| [boxcar](https://github.com/natesilva/boxcar) | Menu bar app for managing Docker containers |
 
 ```sh
-brew tap natesilva/boxcar
-brew install --cask boxcar
+brew install --cask natesilva/tap/boxcar
 ```
-
-Boxcar updates itself with Sparkle. `brew upgrade` does not replace it.
